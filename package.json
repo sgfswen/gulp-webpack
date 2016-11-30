@@ -1,0 +1,25 @@
+{
+  "name": "lily_demos",
+  "version": "1.0.0",
+  "description": "save the usual demos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lily",
+    "demos"
+  ],
+  "author": "lili",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.14.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.14.0",
+    "gulp": "^3.9.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-uglify": "^2.0.0",
+    "webpack": "^1.13.2",
+    "webpack-stream": "^3.2.0"
+  }
+}
